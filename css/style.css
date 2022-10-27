@@ -1,0 +1,42 @@
+#headline {
+  width: fit-content;
+  color: red;
+  background-color: black;
+  display: block;
+  font-size: 30px;
+  font-weight: 900;
+  padding: 34px 50px;
+  border: 5px solid red;
+  margin: auto;
+  margin-top: 32px;
+}
+#mark {
+  color: yellow;
+  background-color: rgb(113, 122, 122);
+  text-align: center;
+  padding: 22px 5px;
+  font-size: 25px;
+  margin-left: 65px;
+}
+div {
+  background-color: blueviolet;
+  width: 700px;
+  height: 322px;
+  margin: auto;
+}
+button {
+    background-color: rgb(113, 122, 122);
+  color: yellow;
+  padding: 13px 38px;
+  border: 5px solid red;
+  font-size: 20px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+#result {
+  background-color: black;
+  width: 700px;
+  height: 44px;
+  margin-top: 40px;
+  text-align: center;
+}
